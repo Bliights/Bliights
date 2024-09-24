@@ -31,6 +31,7 @@ Here are some of the skills I currently possess:
 You will find here some of the projects I've worked on recently:
 
 1. [Tetris AI](https://github.com/Bliights/Tetris-AI): It's a project that recreates the mythical game tetris and creates an AI that plays the game efficiently.
+2. [Awake Wheel](https://github.com/Bliights/Awake-Wheel): This project consists of creating a mobile app that uses an ia to detect drowsiness in drivers.
 
 ## Connect with Me
 
