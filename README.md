@@ -25,6 +25,7 @@ Here are some of the skills I currently possess:
 ![Model Training & Evaluation](https://img.shields.io/badge/-Model%20Training%20%26%20Evaluation-FFC107?logo=tensorflow&logoColor=white)
 ![Data Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-007396?logo=pandas&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00ADD8?logo=keras&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)
 
 ## Projects
 
