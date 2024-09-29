@@ -13,9 +13,10 @@ Here are some of the skills I currently possess:
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-green?logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-orange?logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080?logo=latex&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white)
 
 - Packages:
 
@@ -25,7 +26,7 @@ Here are some of the skills I currently possess:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFC107?logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-007396?logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-00ADD8?logo=keras&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)
 
 ## Projects
