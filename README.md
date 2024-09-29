@@ -22,9 +22,10 @@ Here are some of the skills I currently possess:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931A?logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?logo=Matplotlib&logoColor=black)
-![Model Training & Evaluation](https://img.shields.io/badge/-Model%20Training%20%26%20Evaluation-FFC107?logo=tensorflow&logoColor=white)
-![Data Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-007396?logo=pandas&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00ADD8?logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFC107?logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-007396?logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-00ADD8?logo=keras&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)
 
 ## Projects
