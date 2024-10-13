@@ -40,7 +40,7 @@ You will find here some of the projects I've worked on recently:
 
 You can reach me through the following platforms:
 
-- LinkedIn: https://www.linkedin.com/in/clément-molly-mitton
+- LinkedIn: https://www.linkedin.com/in/clément-molly-mitton/?locale=en_US
 - Email: clement.mollymitton@gmail.com
 
 ## Stats
