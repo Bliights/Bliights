@@ -28,6 +28,8 @@ Here are some of the skills I currently possess:
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ## Projects
 
@@ -35,6 +37,7 @@ You will find here some of the projects I've worked on recently:
 
 1. [Tetris AI](https://github.com/Bliights/Tetris-AI): It's a project that recreates the mythical game tetris and creates an AI that plays the game efficiently.
 2. [Awake Wheel](https://github.com/Bliights/Awake-Wheel): This project consists of creating a mobile app that uses an AI to detect drowsiness in drivers.
+3. [SportsHub](https://github.com/Bliights/SportsHub): This project involves recreating a website for selling sports items. It includes all components: the database, backend, and frontend.
 
 ## Connect with Me
 
