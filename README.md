@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently pursuing a degree in Data and Artificial Intelligence at ESILV in Paris, with a deep passion for finance, software development, and data science. My interests span across AI, cybersecurity, and financial technologies, where I’m constantly seeking to expand my knowledge and sharpen my skills. I thrive in environments where I can merge my passion for both finance and technology, always eager to learn and explore new innovations in these fields.
+I am currently pursuing a double degree at CentraleSupélec, where I am completing my final year specializing in Artificial Intelligence, alongside a degree in Data and Artificial Intelligence at ESILV in Paris. I have a strong passion for artificial intelligence, data science, and software development, where I’m constantly seeking to expand my knowledge and sharpen my skills. Driven by curiosity and a desire to innovate, I thrive in environments that challenge me to design intelligent, AI-driven solutions and develop impactful software systems.
 
 ## Skills
 
@@ -14,7 +14,7 @@ A list of tools, languages, and technologies I actively use, have practiced in t
 |------------------------|--------------|
 | **Programming Languages** |![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080?logo=latex&logoColor=white)|
 | **Frameworks** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) |
 | **Packages & Libraries** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFC107?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931A?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-007396?logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?logo=Matplotlib&logoColor=black) |
 
 ### Familiar but not recently practiced / learning phase
